@@ -2,5 +2,10 @@
 *.swp
 *.pkl
 *.pth
-result*
-weights*
+results/
+__pycache__/
+weights/
+data/
+basenet/__pycache__/
+/.vscode/
+/env/
